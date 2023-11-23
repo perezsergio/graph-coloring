@@ -39,6 +39,8 @@ libdeflate=1.17=h5eee18b_1
 libedit=3.1.20221030=h5eee18b_0
 libffi=3.4.4=h6a678d5_0
 libgcc-ng=11.2.0=h1234567_1
+libgfortran-ng=11.2.0=h00389a5_1
+libgfortran5=11.2.0=h1234567_1
 libgomp=11.2.0=h1234567_1
 libllvm14=14.0.6=hdb19cb5_3
 libpng=1.6.39=h5eee18b_0
@@ -76,6 +78,7 @@ python=3.12.0=h996f2a0_0
 python-dateutil=2.8.2=pyhd3eb1b0_0
 qt-main=5.15.2=h53bd1ea_10
 readline=8.2=h5eee18b_0
+scipy=1.11.3=py312hc5e2394_0
 setuptools=68.0.0=py312h06a4308_0
 sip=6.7.12=py312h6a678d5_0
 six=1.16.0=pyhd3eb1b0_1
